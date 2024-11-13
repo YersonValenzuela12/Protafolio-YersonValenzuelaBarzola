@@ -26,7 +26,7 @@ header {
 header h1 {
     margin: 0;
     font-family: 'Pacifico', cursive;
-    font-size: 36px;
+    font-size: 50px;
 }
 
 nav ul {
@@ -52,12 +52,45 @@ section {
 h2 {
     margin-bottom: 20px;
     font-family: 'Lobster', cursive;
-    font-size: 24px;
+    font-size: 30px;
 }
+
+
 
 .project {
     margin-bottom: 20px;
 }
+
+ .row {
+    display: flex;
+    flex-direction: row;
+    padding-inline: 105px;
+    justify-content: space-between;
+    
+    }
+.colum1 {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}    
+.colum2 {
+        display: flex;
+        flex-direction: row;
+        padding-inline: 100px;
+        justify-content: space-between;
+        gap: 1000px;
+        }
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+
+.form-section h3 {
+  text-align: center;
+}
+
 
 footer {
     background-color: #8569ff; /* Purpur */
@@ -67,3 +100,4 @@ footer {
     font-family: 'Lobster', cursive;
     font-size: 16px;
 }
+
