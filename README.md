@@ -3,6 +3,8 @@
 # Awesome Portfolio 🌟
 
 Welcome to me personal portfolio website! 
+
+![Perfil](https://github.com/YersonValenzuela12/Protafolio-YersonValenzuelaBarzola/blob/main/_html/ImgWebPerfil.jpg)
 This is where I showcase a friend's coding adventures, projects, and skills. Dive in and explore what they have been up to!
 
 ## What's Inside?
@@ -28,7 +30,7 @@ Excel Intermediate
 
 Introduction a website Frontend Developer
 
--**Contact Me **
+-**Contact Me:**
 
 city: Lima - SJL
 Number: +51 979232158
@@ -44,7 +46,7 @@ Please check my cv with all the links home, bio, projects, blog and contact me.
 
 
 
----------------------------------****--------------------------------------
+-----------------------------------*--------------------------------------
 
 - **About Me:** Get to know the person behind the code - that's NEO! I'll tell you a bit about them and their journey in the world of web development.
 
